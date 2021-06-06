@@ -1,1 +1,5 @@
 ok
+
+
+
+checking git commit -a command
